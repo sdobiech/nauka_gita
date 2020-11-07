@@ -8,3 +8,7 @@ kolejna zmiana
 ostatnia zmiana
 
 moze teraz
+
+-a
+-b
+-c
