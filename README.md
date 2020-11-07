@@ -5,3 +5,5 @@
 -a
 -b
 -c
+
+#moj pierwszy **commit**
