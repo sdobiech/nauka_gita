@@ -6,3 +6,5 @@ druga zmiana
 kolejna zmiana
 
 ostatnia zmiana
+
+moze teraz
