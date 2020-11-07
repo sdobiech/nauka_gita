@@ -12,3 +12,7 @@ moze teraz
 -a
 -b
 -c
+
+1. Pierwszy punkt
+# 2. Drugi punkt
+## 3. Trzeci punkt
