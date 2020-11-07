@@ -2,15 +2,15 @@
 
 ## Leki **przeciwkaszlowe**
 
-Leki przeciwkaszlowe dzielimy na:
+  Leki przeciwkaszlowe dzielimy na:
 
-1. Leki przeciwkaszlowe i dzialaniu osrodkowym
+    1. Leki przeciwkaszlowe i dzialaniu osrodkowym
 
-  -opioidowe
+       -opioidowe
 
-  -nieopioidowe
+       -nieopioidowe
 
-2. Leki przeciwkaszlowe o dzialaniu obowodym
+    2. Leki przeciwkaszlowe o dzialaniu obowodym
 
 
 ![Papaver Somniferum](https://www.victoriananursery.co.uk/images/250/sq_papaver_somniferum_003.jpg)
