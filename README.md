@@ -7,3 +7,5 @@
 -c
 
 #moj pierwszy **commit**
+
+kolejna zmiana
