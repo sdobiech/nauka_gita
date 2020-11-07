@@ -14,4 +14,8 @@ Leki przeciwkaszlowe dzielimy na:
 
 
 ![Papaver Somniferum](https://www.victoriananursery.co.uk/images/250/sq_papaver_somniferum_003.jpg)
-Mak lekarski *Papaver Somniferum*
+
+
+Mak lekarski
+
+*Papaver Somniferum*
