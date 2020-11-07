@@ -1,32 +1,13 @@
-## Nauka GIT
-### zobaczymy czy taka **git**
+# Nazywam sie *Sylwia*
 
-druga zmiana
+## Leki **przeciwkaszlowe**
 
-kolejna zmiana
+Leki przeciwkaszlowe dzielimy na:
 
-ostatnia zmiana
+1. Leki przeciwkaszlowe i dzialaniu osrodkowym
 
-moze teraz
+  -opioidowe
 
--a
--b
--c
+  -nieopioidowe
 
-1. Pierwszy punkt
-# 2. Drugi punkt
-## 3. Trzeci punkt
-
-kiedys
-  zrobie
-    ladnie
-
-a
-
-jak
-zrobic
-
-pojedynczy
-
-
-enter 
+2. Leki przeciwkaszlowe o dzialaniu obowodym
