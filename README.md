@@ -9,3 +9,5 @@
 #moj pierwszy **commit**
 
 kolejna zmiana
+
+i po tej zobacze w graficznym
