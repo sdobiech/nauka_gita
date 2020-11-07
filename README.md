@@ -3,4 +3,6 @@
 
 druga zmiana
 
-kolejna zmiana 
+kolejna zmiana
+
+ostatnia zmiana
