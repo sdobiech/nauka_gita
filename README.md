@@ -19,4 +19,14 @@ moze teraz
 
 kiedys
   zrobie
-    ladnie 
+    ladnie
+
+a
+
+jak
+zrobic
+
+pojedynczy
+
+
+enter 
